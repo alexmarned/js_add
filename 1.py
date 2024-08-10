@@ -29,7 +29,8 @@ model.compile(optimizer='adam',
 
 
 layer = model.layers[2]
-activations = layer.activations 
+# activations = layer.activations 
 
 import matplotlib.pyplot as plt
-plt.imshow(activations[0][0,:,:], cmap='viridis')
+# plt.imshow(activations[0][0,:,:], cmap='viridis')
+#  новое добавление в код
