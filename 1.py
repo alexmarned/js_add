@@ -34,3 +34,6 @@ layer = model.layers[2]
 import matplotlib.pyplot as plt
 # plt.imshow(activations[0][0,:,:], cmap='viridis')
 #  новое добавление в код
+
+
+44444
